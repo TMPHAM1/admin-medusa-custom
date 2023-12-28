@@ -23,6 +23,7 @@ const LoginPage = () => {
         >
           <div className="flex flex-col pt-12 w-full px-[120px] items-center">
             <MedusaIcon />
+            THIS WORKS
             {resetPassword ? (
               <ResetTokenCard goBack={() => setResetPassword(false)} />
             ) : (
