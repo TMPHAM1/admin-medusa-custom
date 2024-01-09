@@ -1,4 +1,5 @@
 {
+  "version": "7.1.9",
   "name": "medusa-admin",
   "private": true,
   "description": "A proprietary Admin system to manage Medusa Stores",
